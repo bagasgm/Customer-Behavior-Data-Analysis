@@ -87,7 +87,11 @@ The Power BI dashboard provides:
 
 ## 💡 Business Recommendations
 
-1.**Boost Subscriptions** - Offer exclusive benefits to increase subscriber base 2.**Loyalty Programs** - Implement rewards to retain returning customers 3.**Discount Strategy** - Balance discount usage with profit margins 4.**Product Positioning** - Highlight top-rated and best-selling items in marketing 5.**Targeted Campaigns** - Focus on high-revenue demographics and shipping preferences
+- **Boost Subscriptions** - Offer exclusive benefits to increase subscriber base
+- **Loyalty Programs** - Implement rewards to retain returning customers
+- **Discount Strategy** - Balance discount usage with profit margins
+- **Product Positioning** - Highlight top-rated and best-selling items in marketing
+- **Targeted Campaigns** - Focus on high-revenue demographics and shipping preferences
 
 ## 🚀 How to Run This Project
 
