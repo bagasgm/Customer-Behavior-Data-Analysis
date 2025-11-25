@@ -67,7 +67,7 @@ Performed comprehensive analysis answering 10 key business questions:
 
 ## 📈 Dashboard
 
-![Dashboard Preview](https://github.com/user-attachments/assets/ef8e5bec-6316-4b41-bc8d-7e4de52b35d2)
+![Dashboard Preview](https://github.com/user-attachments/assets/2d3f2828-9130-41fd-9f62-158a657ba121)
 The Power BI dashboard provides:
 
 - Key metrics: Customer count, average rating, purchase amount
