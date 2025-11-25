@@ -20,7 +20,6 @@ This project analyzes customer shopping behavior using transactional data to unc
 - **Python** (Pandas, SQLAlchemy) - Data cleaning and preprocessing
 - **PostgreSQL** - Data storage and analysis
 - **Power BI** - Data visualization and dashboard creation
-- **SQL** - Business intelligence queries
 - **Gamma AI** - Presentation creation
 
 ## 📋 Project Steps
