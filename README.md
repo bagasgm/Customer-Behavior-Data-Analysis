@@ -106,7 +106,7 @@ The Power BI dashboard provides:
 
 ```bash
 git clone https://github.com/bagasgm/Customer-Behavior-Data-Analysis.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
+cd Customer-Behavior-Data-Analysis
 ```
 
 2. **Open customer_shopping_behavior_analysis.ipynb notebook**
@@ -127,5 +127,8 @@ jupyter notebook customer_shopping_behavior_analysis.ipynb
 - Create interactive dashboard in Power BI
 
 ## 📬 Contact
+
+📧 Email: bagas.mamun@gmail.com
+📱 LinkedIn: linkedin.com/in/bagasmamun
 
 For any questions or collaboration opportunities, feel free to reach out.
